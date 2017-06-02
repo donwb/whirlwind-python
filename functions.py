@@ -44,4 +44,3 @@ print(r, i, c)
 
 x = fibonacci(10)
 print(x)
-
