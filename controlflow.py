@@ -33,7 +33,6 @@ for i in range(20):
 else:
 	print("never found for 'x'")
 	
-print("done....")
-print("again")
+
 
 
