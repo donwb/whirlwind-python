@@ -17,7 +17,7 @@ print(y)
 
 def fib(N):
     if N < 0:
-        raise ValueError("N must be nnn-neg")
+        raise ValueError("N must be non-neg")
     L = []
     a, b = 0, 1
     while len(L) < N:
